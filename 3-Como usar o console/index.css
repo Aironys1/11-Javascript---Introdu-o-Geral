@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+    margin: 30px;
+    color: rgb(255, 255, 255);
+    background-color:rgb(133, 81, 18);
+    padding: 10px;
+    border-radius: 20px;
+    font-size:30px;
+}
+
+p{
+    max-width: 80%;
+    margin: 0 auto;
+    text-align:justify;
+    font-size:20px;
+    color: rebeccapurple;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+}
+

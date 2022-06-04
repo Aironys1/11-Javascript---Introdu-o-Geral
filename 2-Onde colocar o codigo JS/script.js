@@ -1,0 +1,1 @@
+alert('Estou rodando em Java Script externo');
